@@ -1,0 +1,27 @@
+.add-item{
+  width: 300px;
+  padding: 10px;
+}
+
+.todo-list{
+  padding: 10px;
+}
+
+.todo-list td{
+  padding: 10px;
+  border: 1px solid #eee;
+  margin: 0;
+}
+
+.todo-list__state{
+  user-select: none
+}
+
+.filters{
+  width: 300px;
+  padding: 10px;
+  background: #eee;
+}
+.filters__description{
+  display: inline-block;
+}
